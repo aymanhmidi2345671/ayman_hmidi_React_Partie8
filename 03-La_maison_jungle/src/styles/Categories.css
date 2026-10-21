@@ -1,0 +1,13 @@
+.lmj-categories {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin: 20px auto 15px auto;
+    width: 100%;
+    padding-right: 180px; 
+    box-sizing: border-box;
+}
+.lmj-categories-select {
+	margin-right: 15px;
+}
